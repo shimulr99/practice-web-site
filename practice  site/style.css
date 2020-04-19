@@ -1,0 +1,20 @@
+h6{
+    font-family: roboto;
+    font-size: 20px;
+}
+h1{
+    font-family: arimo;
+    font-size: 40px;
+    
+}
+p{
+    font-family: Inconsolata;
+}
+
+div {
+    background-color: lightblue;
+  }
+*{
+    margin: 0px;
+    padding: 0%;
+}
